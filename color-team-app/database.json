@@ -41,99 +41,6 @@
       "role": "admin"
     }
   ],
-  "leader": [
-    {
-      "id": 1,
-      "memberId": "CT105",
-      "username": "AnhLTN",
-      "name": "Lê Thị Ngọc Ánh",
-      "first_name": "Lê",
-      "last_name": "Thị Ngọc Ánh",
-      "email": "",
-      "student_year": 15,
-      "major": "Graphic Design",
-
-      "location": "",
-      "profile_image": "",
-      "social": {
-        "facebook": "",
-        "instagram": ""
-      }
-    },
-    {
-      "id": 1,
-      "memberId": "CT117",
-      "username": "SonNH",
-      "name": "Nguyễn Hoài Sơn",
-      "first_name": "Nguyễn",
-      "last_name": "Hoài Sơn",
-      "email": "",
-      "student_year": 16,
-      "major": "Digital Marketing",
-
-      "location": "",
-      "profile_image": "",
-      "social": {
-        "facebook": "",
-        "instagram": ""
-      }
-    },
-    {
-      "id": 3,
-      "memberId": null,
-      "username": "",
-      "name": "",
-      "first_name": "",
-      "last_name": "",
-      "email": "",
-      "student_year": null,
-      "major": "",
-
-      "location": "",
-      "profile_image": "",
-      "social": {
-        "facebook": "",
-        "instagram": ""
-      }
-    }
-  ],
-  "vice-leader": [
-    {
-      "id": 1,
-      "memberId": "CT116",
-      "username": "ThaiPM",
-      "name": "Phạm Minh Thái",
-      "first_name": "Phạm",
-      "last_name": "Minh Thái",
-      "email": "",
-      "student_year": 16,
-      "major": "Software Engineering",
-
-      "location": "",
-      "profile_image": "",
-      "social": {
-        "facebook": "",
-        "instagram": ""
-      }
-    },
-    {
-      "memberId": "CT103",
-      "username": "CuongNT",
-      "name": "Nguyễn Tiến Cường",
-      "first_name": "Nguyễn",
-      "last_name": "Tiến Cường",
-      "email": "",
-      "student_year": 15,
-      "major": "Graphic Design",
-
-      "location": "",
-      "profile_image": "",
-      "social": {
-        "facebook": "",
-        "instagram": ""
-      }
-    }
-  ],
   "member": [
     {
       "id": 13,
@@ -223,7 +130,7 @@
           "last_name": "Đình Bảo Quốc",
           "email": "",
           "student_year": 18,
-          "major": "",
+          "major": "Software Engineering",
 
           "location": "",
           "profile_image": "",
@@ -537,7 +444,7 @@
         },
         {
           "memberId": "CT113",
-          "username": "MinhPM",
+          "username": "MinhPV",
           "name": "Phạm Văn Minh",
           "first_name": "Phạm",
           "last_name": "Văn Minh",
@@ -2522,6 +2429,99 @@
       ]
     }
   ],
+  "leader": [
+    {
+      "id": 1,
+      "memberId": "CT105",
+      "username": "AnhLTN",
+      "name": "Lê Thị Ngọc Ánh",
+      "first_name": "Lê",
+      "last_name": "Thị Ngọc Ánh",
+      "email": "",
+      "student_year": 15,
+      "major": "Graphic Design",
+
+      "location": "",
+      "profile_image": "",
+      "social": {
+        "facebook": "",
+        "instagram": ""
+      }
+    },
+    {
+      "id": 1,
+      "memberId": "CT117",
+      "username": "SonNH",
+      "name": "Nguyễn Hoài Sơn",
+      "first_name": "Nguyễn",
+      "last_name": "Hoài Sơn",
+      "email": "",
+      "student_year": 16,
+      "major": "Digital Marketing",
+
+      "location": "",
+      "profile_image": "",
+      "social": {
+        "facebook": "",
+        "instagram": ""
+      }
+    },
+    {
+      "id": 3,
+      "memberId": null,
+      "username": "",
+      "name": "",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "student_year": null,
+      "major": "",
+
+      "location": "",
+      "profile_image": "",
+      "social": {
+        "facebook": "",
+        "instagram": ""
+      }
+    }
+  ],
+  "vice-leader": [
+    {
+      "id": 1,
+      "memberId": "CT116",
+      "username": "ThaiPM",
+      "name": "Phạm Minh Thái",
+      "first_name": "Phạm",
+      "last_name": "Minh Thái",
+      "email": "",
+      "student_year": 16,
+      "major": "Software Engineering",
+
+      "location": "",
+      "profile_image": "",
+      "social": {
+        "facebook": "",
+        "instagram": ""
+      }
+    },
+    {
+      "memberId": "CT103",
+      "username": "CuongNT",
+      "name": "Nguyễn Tiến Cường",
+      "first_name": "Nguyễn",
+      "last_name": "Tiến Cường",
+      "email": "",
+      "student_year": 15,
+      "major": "Graphic Design",
+
+      "location": "",
+      "profile_image": "",
+      "social": {
+        "facebook": "",
+        "instagram": ""
+      }
+    }
+  ],
   "event": [
     {
       "id": 1,
@@ -3831,56 +3831,56 @@
           "id": "CTR007",
           "name": "COLOR TRIP 2023 - SẮC THƯƠNG",
           "TBTC": {
-            "memberId": "",
-            "username": "",
-            "name": "",
-            "first_name": "",
-            "last_name": "",
-            "email": "",
-            "student_year": null,
-            "major": "",
+            "memberId": "CT127",
+          "username": "QuynhTTT",
+          "name": "Trương Thị Thúy Quỳnh",
+          "first_name": "Trương",
+          "last_name": "Thị Thúy Quỳnh",
+          "email": "",
+          "student_year": 18,
+          "major": "Multimedia communication",
 
-            "location": "",
-            "profile_image": "",
-            "social": {
-              "facebook": "",
-              "instagram": ""
-            }
+          "location": "",
+          "profile_image": "",
+          "social": {
+            "facebook": "",
+            "instagram": ""
+          }
           },
           "HR": {
-            "memberId": "",
-            "username": "",
-            "name": "",
-            "first_name": "",
-            "last_name": "",
-            "email": "",
-            "student_year": null,
-            "major": "",
+            "memberId": "CT121",
+          "username": "NgaKK",
+          "name": "Khuất Kiều Nga",
+          "first_name": "Khuất",
+          "last_name": "Kiều Nga",
+          "email": "",
+          "student_year": 17,
+          "major": "Digital Marketing",
 
-            "location": "",
-            "profile_image": "",
-            "social": {
-              "facebook": "",
-              "instagram": ""
-            }
+          "location": "",
+          "profile_image": "",
+          "social": {
+            "facebook": "",
+            "instagram": ""
+          }
           },
           "communications": {
             "leader": {
-              "memberId": null,
-              "username": "",
-              "name": "",
-              "first_name": "",
-              "last_name": "",
-              "email": "",
-              "student_year": null,
-              "major": "",
+              "memberId": "CT120",
+          "username": "VietTG",
+          "name": "Tống Giang Việt",
+          "first_name": "Tống",
+          "last_name": "Giang Việt",
+          "email": "",
+          "student_year": 17,
+          "major": "Graphic Design",
 
-              "location": "",
-              "profile_image": "",
-              "social": {
-                "facebook": "",
-                "instagram": ""
-              }
+          "location": "",
+          "profile_image": "",
+          "social": {
+            "facebook": "",
+            "instagram": ""
+          }
             },
             "member": {
               "image": ""
@@ -3888,21 +3888,21 @@
           },
           "logistics": {
             "leader": {
-              "memberId": null,
-              "username": "",
-              "name": "",
-              "first_name": "",
-              "last_name": "",
-              "email": "",
-              "student_year": null,
-              "major": "",
+              "memberId": "CT125",
+          "username": "HaiVT",
+          "name": "Vũ Tuấn Hải",
+          "first_name": "Vũ",
+          "last_name": "Tuấn Hải",
+          "email": "",
+          "student_year": 17,
+          "major": "Software Engineering",
 
-              "location": "",
-              "profile_image": "",
-              "social": {
-                "facebook": "",
-                "instagram": ""
-              }
+          "location": "",
+          "profile_image": "",
+          "social": {
+            "facebook": "",
+            "instagram": ""
+          }
             },
             "member": {
               "image": ""
@@ -3910,21 +3910,21 @@
           },
           "foreign_affairs": {
             "leader": {
-              "memberId": null,
-              "username": "",
-              "name": "",
-              "first_name": "",
-              "last_name": "",
-              "email": "",
-              "student_year": null,
-              "major": "",
+              "memberId": "CT126",
+          "username": "HuyenNP",
+          "name": "Nguyễn Phương Huyền",
+          "first_name": "Nguyễn",
+          "last_name": "Phương Huyền",
+          "email": "",
+          "student_year": 18,
+          "major": "Digital Marketing",
 
-              "location": "",
-              "profile_image": "",
-              "social": {
-                "facebook": "",
-                "instagram": ""
-              }
+          "location": "",
+          "profile_image": "",
+          "social": {
+            "facebook": "",
+            "instagram": ""
+          }
             },
             "member": {
               "image": ""
@@ -4528,14 +4528,14 @@
           "id": "WD005",
           "name": "WATER DAY 2023 - DOMINATION",
           "TBTC": {
-            "memberId": "",
-            "username": "",
-            "name": "",
-            "first_name": "",
-            "last_name": "",
+            "memberId": "CT117",
+            "username": "SonNH",
+            "name": "Nguyễn Hoài Sơn",
+            "first_name": "Nguyễn",
+            "last_name": "Hoài Sơn",
             "email": "",
-            "student_year": null,
-            "major": "",
+            "student_year": 16,
+            "major": "Digital Marketing",
 
             "location": "",
             "profile_image": "",
@@ -4545,39 +4545,39 @@
             }
           },
           "HR": {
-            "memberId": "",
-            "username": "",
-            "name": "",
-            "first_name": "",
-            "last_name": "",
-            "email": "",
-            "student_year": null,
-            "major": "",
+           "memberId": "CT114",
+          "username": "LyTC",
+          "name": "Trần Cẩm Ly",
+          "first_name": "Trần",
+          "last_name": "Cẩm Ly",
+          "email": "",
+          "student_year": 16,
+          "major": "Digital Marketing",
 
-            "location": "",
-            "profile_image": "",
-            "social": {
-              "facebook": "",
-              "instagram": ""
-            }
+          "location": "",
+          "profile_image": "",
+          "social": {
+            "facebook": "",
+            "instagram": ""
+          }
           },
           "communications": {
             "leader": {
-              "memberId": null,
-              "username": "",
-              "name": "",
-              "first_name": "",
-              "last_name": "",
-              "email": "",
-              "student_year": null,
-              "major": "",
+              "memberId": "CT113",
+          "username": "MinhPV",
+          "name": "Phạm Văn Minh",
+          "first_name": "Phạm",
+          "last_name": "Văn Minh",
+          "email": "",
+          "student_year": 16,
+          "major": "Multimedia communication",
 
-              "location": "",
-              "profile_image": "",
-              "social": {
-                "facebook": "",
-                "instagram": ""
-              }
+          "location": "",
+          "profile_image": "",
+          "social": {
+            "facebook": "",
+            "instagram": ""
+          }
             },
             "member": {
               "image": ""
@@ -4585,21 +4585,21 @@
           },
           "logistics": {
             "leader": {
-              "memberId": null,
-              "username": "",
-              "name": "",
-              "first_name": "",
-              "last_name": "",
-              "email": "",
-              "student_year": null,
-              "major": "",
+              "memberId": "CT120",
+          "username": "VietTG",
+          "name": "Tống Giang Việt",
+          "first_name": "Tống",
+          "last_name": "Giang Việt",
+          "email": "",
+          "student_year": 17,
+          "major": "Graphic Design",
 
-              "location": "",
-              "profile_image": "",
-              "social": {
-                "facebook": "",
-                "instagram": ""
-              }
+          "location": "",
+          "profile_image": "",
+          "social": {
+            "facebook": "",
+            "instagram": ""
+          }
             },
             "member": {
               "image": ""
@@ -4608,6 +4608,45 @@
           "foreign_affairs": {
             "leader": {
               "memberId": null,
+              "username": "",
+              "name": "",
+              "first_name": "",
+              "last_name": "",
+              "email": "",
+              "student_year": null,
+              "major": "",
+
+              "location": "",
+              "profile_image": "",
+              "social": {
+                "facebook": "",
+                "instagram": ""
+              }
+            },
+            "member": {
+              "image": ""
+            }
+          },
+          "take_care": {
+            "leader": {
+              "memberId": "CT118",
+          "username": "ThuyTT",
+          "name": "Trần Thị Thùy",
+          "first_name": "Trần",
+          "last_name": "Thị Thùy",
+          "email": "",
+          "student_year": 17,
+          "major": "Digital Marketing",
+
+          "location": "",
+          "profile_image": "",
+          "social": {
+            "facebook": "",
+            "instagram": ""
+          }
+            },
+            "sub_leader": {
+              "memberId": "",
               "username": "",
               "name": "",
               "first_name": "",
@@ -4666,14 +4705,14 @@
           "id": "WD006",
           "name": "WATER DAY 2024 - COWBOY'S MEDAL",
           "TBTC": {
-            "memberId": "",
-            "username": "",
-            "name": "",
-            "first_name": "",
-            "last_name": "",
+            "memberId": "CT128",
+            "username": "HuyVVP",
+            "name": "Võ Viết Phúc Huy",
+            "first_name": "Võ",
+            "last_name": "Viết Phúc Huy",
             "email": "",
-            "student_year": null,
-            "major": "",
+            "student_year": 18,
+            "major": "Software Engineering",
 
             "location": "",
             "profile_image": "",
@@ -4683,14 +4722,14 @@
             }
           },
           "HR": {
-            "memberId": "",
-            "username": "",
-            "name": "",
-            "first_name": "",
-            "last_name": "",
+            "memberId": "CT118",
+            "username": "ThuyTT",
+            "name": "Trần Thị Thùy",
+            "first_name": "Trần",
+            "last_name": "Thị Thùy",
             "email": "",
-            "student_year": null,
-            "major": "",
+            "student_year": 17,
+            "major": "Digital Marketing",
 
             "location": "",
             "profile_image": "",
@@ -4701,14 +4740,14 @@
           },
           "communications": {
             "leader": {
-              "memberId": null,
-              "username": "",
-              "name": "",
-              "first_name": "",
-              "last_name": "",
+              "memberId": "CT127",
+              "username": "QuynhTTT",
+              "name": "Trương Thị Thúy Quỳnh",
+              "first_name": "Trương",
+              "last_name": "Thị Thúy Quỳnh",
               "email": "",
-              "student_year": null,
-              "major": "",
+              "student_year": 18,
+              "major": "Multimedia communication",
 
               "location": "",
               "profile_image": "",
@@ -4723,14 +4762,14 @@
           },
           "logistics": {
             "leader": {
-              "memberId": null,
-              "username": "",
-              "name": "",
-              "first_name": "",
-              "last_name": "",
+              "memberId": "CT125",
+              "username": "HaiVT",
+              "name": "Vũ Tuấn Hải",
+              "first_name": "Vũ",
+              "last_name": "Tuấn Hải",
               "email": "",
-              "student_year": null,
-              "major": "",
+              "student_year": 17,
+              "major": "Software Engineering",
 
               "location": "",
               "profile_image": "",
@@ -4745,14 +4784,53 @@
           },
           "foreign_affairs": {
             "leader": {
-              "memberId": null,
-              "username": "",
-              "name": "",
-              "first_name": "",
-              "last_name": "",
+              "memberId": "CT123",
+              "username": "TrangNQ",
+              "name": "Nguyễn Quỳnh Trang",
+              "first_name": "Nguyễn",
+              "last_name": "Quỳnh Trang",
               "email": "",
-              "student_year": null,
-              "major": "",
+              "student_year": 17,
+              "major": "Multimedia communication",
+
+              "location": "",
+              "profile_image": "",
+              "social": {
+                "facebook": "",
+                "instagram": ""
+              }
+            },
+            "member": {
+              "image": ""
+            }
+          },
+          "take_care": {
+            "leader": {
+              "memberId": "CT126",
+              "username": "HuyenNP",
+              "name": "Nguyễn Phương Huyền",
+              "first_name": "Nguyễn",
+              "last_name": "Phương Huyền",
+              "email": "",
+              "student_year": 18,
+              "major": "Digital Marketing",
+
+              "location": "",
+              "profile_image": "",
+              "social": {
+                "facebook": "",
+                "instagram": ""
+              }
+            },
+            "sub_leader": {
+              "memberId": "CT115",
+              "username": "HoanNC",
+              "name": "Nguyễn Công Hoan",
+              "first_name": "Nguyễn",
+              "last_name": "Công Hoan",
+              "email": "",
+              "student_year": 16,
+              "major": "Multimedia communication",
 
               "location": "",
               "profile_image": "",
@@ -4876,29 +4954,6 @@
               "email": "",
               "student_year": null,
               "major": "",
-
-              "location": "",
-              "profile_image": "",
-              "social": {
-                "facebook": "",
-                "instagram": ""
-              }
-            },
-            "member": {
-              "image": ""
-            }
-          },
-          "foreign_affairs": {
-            "leader": {
-              "memberId": null,
-              "username": "",
-              "name": "",
-              "first_name": "",
-              "last_name": "",
-              "email": "",
-              "student_year": null,
-              "major": "",
-
               "location": "",
               "profile_image": "",
               "social": {
@@ -5005,28 +5060,6 @@
             }
           },
           "logistics": {
-            "leader": {
-              "memberId": null,
-              "username": "",
-              "name": "",
-              "first_name": "",
-              "last_name": "",
-              "email": "",
-              "student_year": null,
-              "major": "",
-
-              "location": "",
-              "profile_image": "",
-              "social": {
-                "facebook": "",
-                "instagram": ""
-              }
-            },
-            "member": {
-              "image": ""
-            }
-          },
-          "foreign_affairs": {
             "leader": {
               "memberId": null,
               "username": "",
@@ -5164,28 +5197,6 @@
               "image": ""
             }
           },
-          "foreign_affairs": {
-            "leader": {
-              "memberId": null,
-              "username": "",
-              "name": "",
-              "first_name": "",
-              "last_name": "",
-              "email": "",
-              "student_year": null,
-              "major": "",
-
-              "location": "",
-              "profile_image": "",
-              "social": {
-                "facebook": "",
-                "instagram": ""
-              }
-            },
-            "member": {
-              "image": ""
-            }
-          },
           "image": [
             {
               "id": 1,
@@ -5281,28 +5292,6 @@
             }
           },
           "logistics": {
-            "leader": {
-              "memberId": null,
-              "username": "",
-              "name": "",
-              "first_name": "",
-              "last_name": "",
-              "email": "",
-              "student_year": null,
-              "major": "",
-
-              "location": "",
-              "profile_image": "",
-              "social": {
-                "facebook": "",
-                "instagram": ""
-              }
-            },
-            "member": {
-              "image": ""
-            }
-          },
-          "foreign_affairs": {
             "leader": {
               "memberId": null,
               "username": "",
@@ -5440,28 +5429,6 @@
               "image": ""
             }
           },
-          "foreign_affairs": {
-            "leader": {
-              "memberId": null,
-              "username": "",
-              "name": "",
-              "first_name": "",
-              "last_name": "",
-              "email": "",
-              "student_year": null,
-              "major": "",
-
-              "location": "",
-              "profile_image": "",
-              "social": {
-                "facebook": "",
-                "instagram": ""
-              }
-            },
-            "member": {
-              "image": ""
-            }
-          },
           "image": [
             {
               "id": 1,
@@ -5578,28 +5545,6 @@
               "image": ""
             }
           },
-          "foreign_affairs": {
-            "leader": {
-              "memberId": null,
-              "username": "",
-              "name": "",
-              "first_name": "",
-              "last_name": "",
-              "email": "",
-              "student_year": null,
-              "major": "",
-
-              "location": "",
-              "profile_image": "",
-              "social": {
-                "facebook": "",
-                "instagram": ""
-              }
-            },
-            "member": {
-              "image": ""
-            }
-          },
           "image": [
             {
               "id": 1,
@@ -5639,14 +5584,14 @@
           "id": "GR007",
           "name": "GRATO 2023 - XEROPHILOUS",
           "TBTC": {
-            "memberId": "",
-            "username": "",
-            "name": "",
-            "first_name": "",
-            "last_name": "",
+            "memberId": "CT113",
+            "username": "MinhPV",
+            "name": "Phạm Văn Minh",
+            "first_name": "Phạm",
+            "last_name": "Văn Minh",
             "email": "",
-            "student_year": null,
-            "major": "",
+            "student_year": 16,
+            "major": "Multimedia communication",
 
             "location": "",
             "profile_image": "",
@@ -5656,14 +5601,14 @@
             }
           },
           "HR": {
-            "memberId": "",
-            "username": "",
-            "name": "",
-            "first_name": "",
-            "last_name": "",
+            "memberId": "CT122",
+            "username": "LinhTTN",
+            "name": "Trần Thị Ngọc Linh",
+            "first_name": "Trần",
+            "last_name": "Thị Ngọc Linh",
             "email": "",
-            "student_year": null,
-            "major": "",
+            "student_year": 17,
+            "major": "Digital Marketing",
 
             "location": "",
             "profile_image": "",
@@ -5674,14 +5619,14 @@
           },
           "communications": {
             "leader": {
-              "memberId": null,
-              "username": "",
-              "name": "",
-              "first_name": "",
-              "last_name": "",
+              "memberId": "CT126",
+              "username": "HuyenNP",
+              "name": "Nguyễn Phương Huyền",
+              "first_name": "Nguyễn",
+              "last_name": "Phương Huyền",
               "email": "",
-              "student_year": null,
-              "major": "",
+              "student_year": 18,
+              "major": "Digital Marketing",
 
               "location": "",
               "profile_image": "",
@@ -5696,36 +5641,14 @@
           },
           "logistics": {
             "leader": {
-              "memberId": null,
-              "username": "",
-              "name": "",
-              "first_name": "",
-              "last_name": "",
+              "memberId": "CT115",
+              "username": "HoanNC",
+              "name": "Nguyễn Công Hoan",
+              "first_name": "Nguyễn",
+              "last_name": "Công Hoan",
               "email": "",
-              "student_year": null,
-              "major": "",
-
-              "location": "",
-              "profile_image": "",
-              "social": {
-                "facebook": "",
-                "instagram": ""
-              }
-            },
-            "member": {
-              "image": ""
-            }
-          },
-          "foreign_affairs": {
-            "leader": {
-              "memberId": null,
-              "username": "",
-              "name": "",
-              "first_name": "",
-              "last_name": "",
-              "email": "",
-              "student_year": null,
-              "major": "",
+              "student_year": 16,
+              "major": "Multimedia communication",
 
               "location": "",
               "profile_image": "",
@@ -5777,14 +5700,14 @@
           "id": "GR008",
           "name": "GRATO 2024 - COLLEXTOR",
           "TBTC": {
-            "memberId": "",
-            "username": "",
-            "name": "",
-            "first_name": "",
-            "last_name": "",
+            "memberId": "CT131",
+            "username": "QuocMDB",
+            "name": "Mai Đình Bảo Quốc",
+            "first_name": "Mai",
+            "last_name": "Đình Bảo Quốc",
             "email": "",
-            "student_year": null,
-            "major": "",
+            "student_year": 18,
+            "major": "Software Engineering",
 
             "location": "",
             "profile_image": "",
@@ -5794,14 +5717,14 @@
             }
           },
           "HR": {
-            "memberId": "",
-            "username": "",
-            "name": "",
-            "first_name": "",
-            "last_name": "",
+            "memberId": "CT132",
+            "username": "ThaoHTT",
+            "name": "Hoàng Thị Thu Thảo",
+            "first_name": "Hoàng",
+            "last_name": "Thị Thu Thảo",
             "email": "",
-            "student_year": null,
-            "major": "",
+            "student_year": 18,
+            "major": "Digital Marketing",
 
             "location": "",
             "profile_image": "",
@@ -5812,14 +5735,14 @@
           },
           "communications": {
             "leader": {
-              "memberId": null,
-              "username": "",
-              "name": "",
-              "first_name": "",
-              "last_name": "",
+              "memberId": "CT135",
+              "username": "NgocVM",
+              "name": "Vũ Minh Ngọc",
+              "first_name": "Vũ",
+              "last_name": "Minh Ngọc",
               "email": "",
-              "student_year": null,
-              "major": "",
+              "student_year": 19,
+              "major": "Multimedia communication",
 
               "location": "",
               "profile_image": "",
@@ -5834,36 +5757,14 @@
           },
           "logistics": {
             "leader": {
-              "memberId": null,
-              "username": "",
-              "name": "",
-              "first_name": "",
-              "last_name": "",
+              "memberId": "CT134",
+              "username": "LinhHN",
+              "name": "Hoàng Ngọc Linh",
+              "first_name": "Hoàng",
+              "last_name": "Ngọc Linh",
               "email": "",
-              "student_year": null,
-              "major": "",
-
-              "location": "",
-              "profile_image": "",
-              "social": {
-                "facebook": "",
-                "instagram": ""
-              }
-            },
-            "member": {
-              "image": ""
-            }
-          },
-          "foreign_affairs": {
-            "leader": {
-              "memberId": null,
-              "username": "",
-              "name": "",
-              "first_name": "",
-              "last_name": "",
-              "email": "",
-              "student_year": null,
-              "major": "",
+              "student_year": 19,
+              "major": "Digital Marketing",
 
               "location": "",
               "profile_image": "",
@@ -6110,14 +6011,14 @@
           "id": "TG003",
           "name": "Team Game 2022",
           "TBTC": {
-            "memberId": "",
-            "username": "",
-            "name": "",
-            "first_name": "",
-            "last_name": "",
+            "memberId": "CT104",
+            "username": "MinhPH",
+            "name": "Phạm Hải Minh",
+            "first_name": "Phạm",
+            "last_name": "Hải Minh",
             "email": "",
-            "student_year": null,
-            "major": "",
+            "student_year": 15,
+            "major": "Software Engineering",
 
             "location": "",
             "profile_image": "",
@@ -6127,14 +6028,14 @@
             }
           },
           "HR": {
-            "memberId": "",
-            "username": "",
-            "name": "",
-            "first_name": "",
-            "last_name": "",
+            "memberId": "CT109",
+            "username": "TuPT",
+            "name": "Phạm Thị Tú",
+            "first_name": "Phạm",
+            "last_name": "Thị Tú",
             "email": "",
-            "student_year": null,
-            "major": "",
+            "student_year": 16,
+            "major": "Digital Marketing",
 
             "location": "",
             "profile_image": "",
@@ -6144,25 +6045,20 @@
             }
           },
           "logistics": {
-            "leader": {
-              "memberId": null,
-              "username": "",
-              "name": "",
-              "first_name": "",
-              "last_name": "",
-              "email": "",
-              "student_year": null,
-              "major": "",
+            "memberId": "CT117",
+            "username": "SonNH",
+            "name": "Nguyễn Hoài Sơn",
+            "first_name": "Nguyễn",
+            "last_name": "Hoài Sơn",
+            "email": "",
+            "student_year": 16,
+            "major": "Digital Marketing",
 
-              "location": "",
-              "profile_image": "",
-              "social": {
-                "facebook": "",
-                "instagram": ""
-              }
-            },
-            "member": {
-              "image": ""
+            "location": "",
+            "profile_image": "",
+            "social": {
+              "facebook": "",
+              "instagram": ""
             }
           },
           "image": [
@@ -6204,14 +6100,14 @@
           "id": "TG004",
           "name": "Team Game 2023",
           "TBTC": {
-            "memberId": "",
-            "username": "",
-            "name": "",
-            "first_name": "",
-            "last_name": "",
+            "memberId": "CT107",
+            "username": "PhongNV",
+            "name": "Nguyễn Văn Phong",
+            "first_name": "Nguyễn",
+            "last_name": "Văn Phong",
             "email": "",
-            "student_year": null,
-            "major": "",
+            "student_year": 16,
+            "major": "Multimedia communication",
 
             "location": "",
             "profile_image": "",
@@ -6221,14 +6117,14 @@
             }
           },
           "HR": {
-            "memberId": "",
-            "username": "",
-            "name": "",
-            "first_name": "",
-            "last_name": "",
+            "memberId": "CT108",
+            "username": "HanhDT",
+            "name": "Dương Thị Hạnh",
+            "first_name": "Dương",
+            "last_name": "Thị Hạnh",
             "email": "",
-            "student_year": null,
-            "major": "",
+            "student_year": 16,
+            "major": "Multimedia communication",
 
             "location": "",
             "profile_image": "",
@@ -6238,25 +6134,20 @@
             }
           },
           "logistics": {
-            "leader": {
-              "memberId": null,
-              "username": "",
-              "name": "",
-              "first_name": "",
-              "last_name": "",
-              "email": "",
-              "student_year": null,
-              "major": "",
+            "memberId": "CT120",
+            "username": "VietTG",
+            "name": "Tống Giang Việt",
+            "first_name": "Tống",
+            "last_name": "Giang Việt",
+            "email": "",
+            "student_year": 17,
+            "major": "Graphic Design",
 
-              "location": "",
-              "profile_image": "",
-              "social": {
-                "facebook": "",
-                "instagram": ""
-              }
-            },
-            "member": {
-              "image": ""
+            "location": "",
+            "profile_image": "",
+            "social": {
+              "facebook": "",
+              "instagram": ""
             }
           },
           "image": [
@@ -6298,14 +6189,14 @@
           "id": "TG005",
           "name": "Team Game 2024",
           "TBTC": {
-            "memberId": "",
-            "username": "",
-            "name": "",
-            "first_name": "",
-            "last_name": "",
+            "memberId": "CT115",
+            "username": "HoanNC",
+            "name": "Nguyễn Công Hoan",
+            "first_name": "Nguyễn",
+            "last_name": "Công Hoan",
             "email": "",
-            "student_year": null,
-            "major": "",
+            "student_year": 16,
+            "major": "Multimedia communication",
 
             "location": "",
             "profile_image": "",
@@ -6315,14 +6206,14 @@
             }
           },
           "HR": {
-            "memberId": "",
-            "username": "",
-            "name": "",
-            "first_name": "",
-            "last_name": "",
+            "memberId": "CT121",
+            "username": "NgaKK",
+            "name": "Khuất Kiều Nga",
+            "first_name": "Khuất",
+            "last_name": "Kiều Nga",
             "email": "",
-            "student_year": null,
-            "major": "",
+            "student_year": 17,
+            "major": "Digital Marketing",
 
             "location": "",
             "profile_image": "",
@@ -6332,25 +6223,20 @@
             }
           },
           "logistics": {
-            "leader": {
-              "memberId": null,
-              "username": "",
-              "name": "",
-              "first_name": "",
-              "last_name": "",
-              "email": "",
-              "student_year": null,
-              "major": "",
+            "memberId": "CT120",
+            "username": "VietTG",
+            "name": "Tống Giang Việt",
+            "first_name": "Tống",
+            "last_name": "Giang Việt",
+            "email": "",
+            "student_year": 17,
+            "major": "Graphic Design",
 
-              "location": "",
-              "profile_image": "",
-              "social": {
-                "facebook": "",
-                "instagram": ""
-              }
-            },
-            "member": {
-              "image": ""
+            "location": "",
+            "profile_image": "",
+            "social": {
+              "facebook": "",
+              "instagram": ""
             }
           },
           "image": [
